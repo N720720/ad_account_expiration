@@ -5,7 +5,7 @@ Set the expiration of Active Directory accounts to a specific date for all users
 ## Usage
 
 ```console
-python ad.py file_path [Options]
+python ad_account_expiration.py file_path [Options]
 ```
 
 **Positional**:
